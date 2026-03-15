@@ -1,29 +1,30 @@
 <p align="center">
-  <img src="./docs/PixelShadows_Studios_Preview.png" width="900" alt="ShadowPixel Studios preview">
+  <img src="https://image.thum.io/get/width/900/https://amirabenameur3.github.io/shadowpixel-gaming-club/" alt="ShadowPixel Gaming Club preview">
 </p>
 
-<h1 align="center">🎮 ShadowPixel Studios</h1>
+<h1 align="center">🎮 ShadowPixel Gaming Club</h1>
 
 <p align="center">
-  A fictional game studio website designed and developed <b>from scratch</b> as a front-end portfolio project.
+  A fictional gaming community website designed and developed <b>from scratch</b> as a front-end portfolio project.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/Flexbox-Layout-blue" alt="Flexbox Badge">
+  <img src="https://img.shields.io/badge/CSS%20Grid-Layout-7c3aed" alt="CSS Grid Badge">
   <img src="https://img.shields.io/badge/Responsive-Design-38bdf8" alt="Responsive Badge">
   <img src="https://img.shields.io/badge/GitHub-Project-181717?logo=github" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Status-Portfolio%20Project-purple" alt="Status Badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/amirabenameur3/PixelShadows_Studios" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/amirabenameur3/PixelShadows_Studios" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/amirabenameur3/shadowpixel-gaming-club" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/amirabenameur3/shadowpixel-gaming-club" alt="Last Commit">
 </p>
 
 <p align="center">
-  <a href="https://amirabenameur3.github.io/PixelShadows_Studios/"><b>🌐 View Live Website</b></a>
+  <a href="https://amirabenameur3.github.io/shadowpixel-gaming-club/"><b>🌐 View Live Website</b></a>
 </p>
 
 ---
@@ -33,7 +34,10 @@
 - [📖 About the Project](#-about-the-project)
 - [✨ Features](#-features)
 - [🛠 Built With](#-built-with)
+- [🎬 Demo](#-demo)
 - [📸 Screenshots](#-screenshots)
+- [🧠 Key Concepts Practiced](#-key-concepts-practiced)
+- [🎨 Design Highlights](#-design-highlights)
 - [📂 Project Structure](#-project-structure)
 - [🎯 Learning Objectives](#-learning-objectives)
 - [🚧 Future Improvements](#-future-improvements)
@@ -44,30 +48,33 @@
 
 ## 📖 About the Project
 
-**ShadowPixel Studios** is a fictional indie game studio website created as a front-end portfolio project.
+**ShadowPixel Gaming Club** is a fictional gaming community website created as a **front-end portfolio project**.
 
-The goal of this project was to design and develop a complete website from scratch, showcasing a game studio identity through sections such as the studio mission, games, team, and news.
+The website presents a gaming club where players gather to **play, compete, and connect** through events, tournaments, and community activities.
 
-This project focuses on:
+This project focuses on building a complete modern landing page from scratch using only **HTML and CSS**, with attention to **semantic structure, responsive design, reusable components, and visual consistency**.
 
-- semantic HTML structure
-- responsive layout design
-- modern UI styling
-- clean project organization
-- front-end development practice with Flexbox and CSS
+### Main goals of the project
+
+- practice semantic HTML structure
+- build responsive layouts with modern CSS
+- organize a real-world project folder structure
+- design a clean and engaging gaming-themed interface
+- develop reusable UI components
 
 ---
 
 ## ✨ Features
 
-- 🎮 Hero section introducing the studio
-- 📖 Mission/About section presenting the studio vision
-- 🕹 Games showcase section
-- 👥 Team presentation section
-- 📰 News and updates section
-- 📱 Responsive design for different screen sizes
-- 🎨 Modern styling using CSS variables
-- ⚡ Lightweight static website structure
+- 🎮 Hero section introducing the gaming club
+- 📖 About section explaining the club's mission
+- 🏆 Events section presenting club activities
+- 🖼 Gallery section showing gaming moments
+- 👥 Community section describing the members
+- 💬 Testimonials from fictional club members
+- 📩 Join section with contact information
+- 📱 Fully responsive design for multiple screen sizes
+- 🎨 Modern UI using CSS variables, gradients, shadows, and glass-style panels
 
 ---
 
@@ -76,8 +83,20 @@ This project focuses on:
 - **HTML5**
 - **CSS3**
 - **Flexbox**
+- **CSS Grid**
 - **Responsive Design**
 - **Google Fonts**
+- **Git & GitHub**
+
+---
+
+## 🎬 Demo
+
+<p align="center">
+  <img src="./docs/demo.gif" width="900" alt="ShadowPixel Gaming Club demo">
+</p>
+
+> Replace `./docs/demo.gif` with your final GIF file if the filename is different.
 
 ---
 
@@ -85,27 +104,27 @@ This project focuses on:
 
 ### Home Page
 <p align="center">
-  <img src="./docs/PixelShadows_Studios_Preview.png" width="850" alt="Home Page Screenshot">
+  <img src="./docs/shadowpixel_gaming_club_preview.png" width="850" alt="Home Page Screenshot">
 </p>
 
-### Mission Section
+### About Section
 <p align="center">
-  <img src="./docs/mission.png" width="850" alt="Mission Section Screenshot">
+  <img src="./docs/about.png" width="850" alt="About Section Screenshot">
 </p>
 
-### Games Section
+### Events Section
 <p align="center">
-  <img src="./docs/games.png" width="850" alt="Games Section Screenshot">
+  <img src="./docs/events.png" width="850" alt="Events Section Screenshot">
 </p>
 
-### Team Section
+### Gallery Section
 <p align="center">
-  <img src="./docs/team.png" width="850" alt="Team Section Screenshot">
+  <img src="./docs/gallery.png" width="850" alt="Gallery Section Screenshot">
 </p>
 
-### News Section
+### Community Section
 <p align="center">
-  <img src="./docs/news.png" width="850" alt="News Section Screenshot">
+  <img src="./docs/community.png" width="850" alt="Community Section Screenshot">
 </p>
 
 ### Mobile Layout
@@ -115,80 +134,48 @@ This project focuses on:
 
 ---
 
+## 🧠 Key Concepts Practiced
+
+- Semantic HTML structure
+- Responsive layouts with Flexbox and Grid
+- CSS variables for scalable styling
+- Component-based section design
+- Modern UI styling with gradients, shadows, and glassmorphism
+- Responsive media queries
+- Git and GitHub workflow
+
+---
+
+## 🎨 Design Highlights
+
+- Glass-style UI panels using `backdrop-filter`
+- Gradient accents for buttons and section dividers
+- Card-based layout for events, gallery, community, and testimonials
+- Consistent design tokens using CSS custom properties
+- Responsive hero section with layered background effects
+- Clean visual hierarchy with reusable section patterns
+
+---
+
 ## 📂 Project Structure
 
 ```text
-PixelShadows_Studios
+shadowpixel-gaming-club
 │
 ├── docs
-│   ├── games.png
-│   ├── mission.png
+│   ├── about.png
+│   ├── community.png
+│   ├── demo.gif
+│   ├── events.png
+│   ├── gallery.png
 │   ├── mobile.png
-│   ├── news.png
-│   ├── PixelShadows_Studios.png
-│   └── team.png
+│   └── shadowpixel_gaming_club_preview.png
 │
 ├── resources
 │   ├── css
 │   │   └── styles.css
-│   ├── games
-│   ├── images
-│   ├── team
-│   └── videos
+│   └── images
 │
 ├── favicon_shadowpixel.ico
 ├── index.html
 └── README.md
-```
-
----
-
-## 🎯 Learning Objectives
-
-This project helped practice:
-
-- building a website entirely from scratch
-- structuring content using semantic HTML
-- creating layouts with Flexbox
-- implementing responsive design
-- organizing a real-world project folder structure
-- managing project files with Git and GitHub
-
----
-
-## 🚧 Future Improvements
-
-Possible future enhancements:
-
-- add JavaScript interactivity
-- implement a mobile hamburger navigation menu
-- add animations and transitions
-- include embedded game trailers
-- create a contact section or contact form
-- improve accessibility and keyboard navigation
-
----
-
-## 👩‍💻 Author
-
-**Amira Ben Ameur**
-
-PhD Researcher in Structural & Transportation Engineering  
-Front-End Development Enthusiast
-
-GitHub:  
-`https://github.com/amirabenameur3`
-
----
-
-## 📌 Disclaimer
-
-This website represents a **fictional game studio** created for **learning and portfolio purposes**.
-
-It does **not represent a real company or brand**.
-
----
-
-## ⭐ If you like the project
-
-Give the repository a **star on GitHub** ⭐
