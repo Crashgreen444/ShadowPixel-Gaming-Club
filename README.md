@@ -243,6 +243,3 @@ It does **not represent a real organization or brand**.
 ## ⭐ If you like the project
 
 Give the repository a **star on GitHub** ⭐
-├── favicon_shadowpixel.ico
-├── index.html
-└── README.md
