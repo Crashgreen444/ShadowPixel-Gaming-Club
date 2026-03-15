@@ -167,23 +167,29 @@ This project focuses on building a complete modern landing page from scratch usi
 
 ## 📂 Project Structure
 
-```text
+```
 shadowpixel-gaming-club
 │
 ├── docs
+│   ├── PixelShadows-Gaming-Club-Preview.png
 │   ├── about.png
 │   ├── community.png
 │   ├── demo.gif
 │   ├── events.png
 │   ├── gallery.png
+│   ├── home.png
+│   ├── join.png
 │   ├── mobile.png
-│   └── shadowpixel_gaming_club_preview.png
+│   └── testimonials.png
 │
 ├── resources
 │   ├── css
 │   │   └── styles.css
 │   └── images
 │
+├── README.md
+├── favicon_shadowpixel.ico
+├── index.html
 ```
 
 ## 🎯 Learning Objectives
