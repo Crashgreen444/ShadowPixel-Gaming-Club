@@ -169,8 +169,6 @@ This project focuses on building a complete modern landing page from scratch usi
 
 ## 📂 Project Structure
 
----
-
 ```
 shadowpixel-gaming-club
 │
