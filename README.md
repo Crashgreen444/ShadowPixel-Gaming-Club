@@ -169,6 +169,8 @@ This project focuses on building a complete modern landing page from scratch usi
 
 ## 📂 Project Structure
 
+---
+
 ```
 shadowpixel-gaming-club
 │
@@ -193,6 +195,8 @@ shadowpixel-gaming-club
 ├── favicon_shadowpixel.ico
 ├── index.html
 ```
+
+---
 
 ## 🎯 Learning Objectives
 
