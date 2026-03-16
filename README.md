@@ -171,7 +171,7 @@ This project focuses on building a complete modern landing page from scratch usi
 shadowpixel-gaming-club
 │
 ├── docs
-│   ├── PixelShadows-Gaming-Club-Preview.png
+│   ├── ShadowPixel-Gaming-Club-Preview.png
 │   ├── about.png
 │   ├── community.png
 │   ├── demo.gif
