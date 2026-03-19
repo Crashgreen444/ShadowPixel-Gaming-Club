@@ -148,8 +148,8 @@ a:focus-visible, button:focus-visible, .button:focus-visible {
 }
 
 .section-header p, .about-content p, .hero-content p, .event-card p, 
-.community-card p, .testimonial-card p, #join .email {
-    font-size: clamp(1rem, 1.6vw, 1.15rem);
+.community-card p, .testimonial-card p {
+    font-size: clamp(1.2rem, 2vw, 1.5rem);
     line-height: 1.7;
 }
 
@@ -400,8 +400,8 @@ header nav a:hover {
     color: var(--text-primary);
 }
 
-.event-card p, .community-card p, .testimonial-card p {
-    font-size: clamp(1rem, 1.5vw, 1.1rem);
+.event-card p, .community-card p, .testimonial-card p, #join .email {
+    font-size: clamp(1.1rem, 1.5vw, 1.15rem);
 }
 
 .name {
